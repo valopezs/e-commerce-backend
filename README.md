@@ -5,7 +5,7 @@ Object-Relational Mapping (ORM): E-commerce Back End
 * [Description](#description)
 * [Usage](#usage)
 * [Installation](#installation)
-* [Walk Through Videos](#walk-through-videos)
+* [Walkthrough Videos](#walkthrough-videos)
 * [Contributing](#contributing)
 * [Questions](#questions)
 
@@ -23,7 +23,9 @@ As a manager at an internet retail company I want a back end for my e-commerce w
 - After exiting terminal type 'npm run seed' to seed data into tables
 - Finally, run 'npm start' to start your server
 
-## Walk Through Videos
+## Walkthrough Videos
+
+[Walkthrough Videos]()
 
 ## Contributing
 Contributors should clone the repository and modify code. 
